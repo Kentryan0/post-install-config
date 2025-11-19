@@ -51,9 +51,3 @@ After installation, the following configuration tasks were completed to fully pr
 - **osTicket (open-source)**  
 
 ---
-
-## 📸 Screenshots
-(Add an image from your repo like this)
-
-```markdown
-![osTicket Dashboard](images/osticket-dashboard.png)
